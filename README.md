@@ -1,7 +1,6 @@
 ## MSc Computer Science (Artificial Intelligence) Student
 ### Experienced in Java, JavaScript and specialising in Python
-### Currently seeking internships between June 2024 - August 2025
-
+### Currently seeking internships from July 2024 onwards
 <!--
 **kudosscience/kudosscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
