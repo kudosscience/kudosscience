@@ -1,6 +1,7 @@
-## MSc Computer Science (Artificial Intelligence) Student
+## Software Developer at Tonbridge & Malling Borough Council
 ### Experienced in Java, JavaScript and specialising in Python
-### Currently seeking internships from July 2024 onwards
+
+- 👯 I’m looking to collaborate on C# hackathons
 <!--
 **kudosscience/kudosscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
