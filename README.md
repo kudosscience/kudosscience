@@ -1,4 +1,4 @@
-## Software Developer at Tonbridge & Malling Borough Council
+## Software Engineer at Tonbridge & Malling Borough Council
 ### Experienced in Java, JavaScript and specialising in Python
 
 - 👯 I’m looking to collaborate on C# hackathons
