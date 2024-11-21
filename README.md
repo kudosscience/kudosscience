@@ -1,4 +1,5 @@
 ## Software Engineer at Tonbridge & Malling Borough Council
+### MSc Computer Science (Artificial Intelligence)
 ### Experienced in Java, JavaScript and specialising in Python
 
 - 👯 I’m looking to collaborate on C# hackathons
