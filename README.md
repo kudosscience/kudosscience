@@ -3,6 +3,9 @@
 ### Experienced in Java, JavaScript and specialising in Python
 
 - 👯 I’m looking to collaborate on C# hackathons
+- 
+## 🔧 Technologies & Tools
+![C#](https://img.shields.io/badge/C%23-C%23?style=flat&logo=C%23&color=%23000000)
 <!--
 **kudosscience/kudosscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
