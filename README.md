@@ -7,6 +7,7 @@
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/C%23-C%23?style=flat&logo=C%23&color=%23000000)
 ![PHP](https://img.shields.io/badge/PHP-PHP?style=flat&logo=PHP&color=%23000000)
+![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?style=flat&logo=Kotlin&color=%23000000)
 <!--
 **kudosscience/kudosscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
