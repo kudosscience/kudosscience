@@ -1,4 +1,4 @@
-## Software Engineer at [Tonbridge & Malling Borough Council](www.tmbc.gov.uk)
+## Software Engineer at [Tonbridge & Malling Borough Council](https://www.tmbc.gov.uk)
 ### MSc Computer Science (Artificial Intelligence)
 ### Experienced in C#, PHP, and specialising in Python
 
