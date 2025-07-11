@@ -10,6 +10,8 @@
 ![PHP](https://img.shields.io/badge/PHP-PHP?style=flat&logo=PHP&color=%23000000)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?style=flat&logo=Kotlin&color=%23000000)
 ![Azure](https://img.shields.io/badge/Azure-Azure?style=flat&logo=Azure&color=%23000000)
+![HTML](https://img.shields.io/badge/HTML-HTML?style=flat&logo=HTML&color=%23000000)
+![CSS](https://img.shields.io/badge/CSS-CSS?style=flat&logo=CSS&color=%23000000)
 <!--
 **kudosscience/kudosscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
