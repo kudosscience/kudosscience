@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with... merge conflicts
 - 💬 Ask me about...mental health tech.
 - 📫 How to reach me: [My LinkedIn](https://linkedin.com/in/henryaward)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I currently have a moustache 🥸
   
 ## 🔧 Technologies & Tools
