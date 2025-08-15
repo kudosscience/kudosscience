@@ -1,8 +1,15 @@
-## Software Engineer at [Tonbridge & Malling Borough Council](https://www.tmbc.gov.uk)
+## Software Engineer/Data Scientist
 ### MSc Computer Science (Artificial Intelligence)
 ### Experienced in C#, PHP, and specialising in Python
 
-- 👯 I’m looking to collaborate on C# hackathons
+- 🔭 I’m currently working on... writing my MSc dissertation ✍️
+- 🌱 I’m currently learning... Vision Transformer models
+- 👯 I’m looking to collaborate on... C# hackathons
+- 🤔 I’m looking for help with... merge conflicts
+- 💬 Ask me about...mental health tech.
+- 📫 How to reach me: [My LinkedIn](https://linkedin.com/in/henryaward)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I currently have a moustache 🥸
   
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/C%23-C%23?style=flat&logo=C%23&color=%23000000)
