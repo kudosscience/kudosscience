@@ -2,11 +2,11 @@
 ### MSc Computer Science (Artificial Intelligence)
 ### Experienced in C#, PHP, and specialising in Python
 
-- 🔭 I’m currently working on... writing my MSc dissertation ✍️
+- 🔭 I’m currently working on... explanding my portfolio 💻
 - 🌱 I’m currently learning... Vision Transformer models
 - 👯 I’m looking to collaborate on... C# hackathons
 - 🤔 I’m looking for help with... merge conflicts
-- 💬 Ask me about...mental health tech.
+- 💬 Ask me about... mental health tech.
 - 📫 How to reach me: [My LinkedIn](https://linkedin.com/in/henryaward)
 - ⚡ Fun fact: I currently have a moustache 🥸
   
