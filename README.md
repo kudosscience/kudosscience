@@ -18,6 +18,7 @@
 ![Azure](https://img.shields.io/badge/Azure-Azure?style=flat&logo=Azure&color=%23000000)
 ![HTML](https://img.shields.io/badge/HTML-HTML?style=flat&logo=HTML&color=%23000000)
 ![CSS](https://img.shields.io/badge/CSS-CSS?style=flat&logo=CSS&color=%23000000)
+![C++](https://img.shields.io/badge/C++-C++?style=flat&logo=C++&color=%23000000)
 <!--
 **kudosscience/kudosscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
