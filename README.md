@@ -3,7 +3,7 @@
 ### Experienced in C#, PHP, and specialising in Python
 
 - 🔭 I’m currently working on... expanding my portfolio 💻
-- 🌱 I’m currently learning... [AGI Strategy](https://bluedot.org/courses/agi-strategy)
+- 🌱 I’m currently learning... Spring Boot etc.
 - 👯 I’m looking to collaborate on... C# hackathons
 - 🤔 I’m looking for help with... merge conflicts
 - 💬 Ask me about... mental health tech.
