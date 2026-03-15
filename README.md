@@ -3,8 +3,8 @@
 ### Experienced in C#, PHP, and specialising in Python
 
 - 🔭 I’m currently working on... expanding my portfolio 💻
-- 🌱 I’m currently learning... Data Engineering
-- 👯 I’m looking to collaborate on... C# hackathons
+- 🌱 I’m currently learning... Harness Engineering
+- 👯 I’m looking to collaborate on... AI hackathons
 - 🤔 I’m looking for help with... merge conflicts
 - 💬 Ask me about... mental health tech.
 - 📫 How to reach me: [My LinkedIn](https://linkedin.com/in/henryaward)
